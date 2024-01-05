@@ -1,4 +1,10 @@
 div{
     background-color: tomato;
     padding: 20px;
+}nav > ul > li{
+    display: inline;
+    margin-right: 15px;
+}
+nav li >a{
+    text-decoration: none;
 }
